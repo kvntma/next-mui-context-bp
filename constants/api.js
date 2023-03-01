@@ -1,1 +1,1 @@
-export const apiUrl = process.env.API_ENDPOINT_URL;
+// some constants here
